@@ -1,4 +1,4 @@
-# 科技四甲 杜伊凱 PL Repo. README
+# 科技四甲 杜伊凱
 
 > Author:BonBa2K
 > Date: 2022-09-14  
