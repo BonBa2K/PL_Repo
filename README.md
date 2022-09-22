@@ -9,7 +9,9 @@
 > 姓名：杜伊凱 <br />
 > 系級：科技系4年級 
 ## 一、課程筆記區
-
+- [Class_1](https://github.com/BonBa2K/PL_Repo/tree/main/Class_1)
+- [Class_2](https://github.com/BonBa2K/PL_Repo/tree/main/Class_2)
+- [Class_3](https://github.com/BonBa2K/PL_Repo/tree/main/Class_3)
 ## 二、作業連結區
-
+- [HW_1](https://github.com/BonBa2K/PL_Repo/blob/main/Class_3/BonBa_HW_1.ipynb)
 ## 三、專題連結區
