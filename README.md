@@ -15,3 +15,8 @@
 ## 二、作業連結區
 - [HW_1](https://github.com/BonBa2K/PL_Repo/blob/main/Class_3/BonBa_HW_1.ipynb)
 ## 三、專題連結區
+
+## 四、參考資料區(reference from 王依仁's read me)
+- [政府資料開放平臺](https://data.gov.tw/datasets/search?p=1&size=10&s=dataset_view_times_desc&rct=283)
+- [Kaggle_HW1_yugioh](https://www.kaggle.com/datasets/tathor/yugioh-trading-cards-dataset)
+- [同學repo](https://docs.google.com/spreadsheets/d/1hRIOovstwJst0SXgM_bogjYsrHLVZv4uVOkmYrgbql0/edit#gid=948403574)
