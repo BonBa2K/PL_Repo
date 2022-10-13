@@ -1,0 +1,48 @@
+{
+   "classes":[
+      {
+         "class":"Adult",
+         "age_requirement":1000,
+         "price":{
+            "morning":250,
+            "afternoon":300,
+            "night":350,
+            "Late Night":250,
+            "Full Day":380
+         }
+      },
+      {
+         "class":"Student",
+         "age_requirement":24,
+         "price":{
+            "morning":200,
+            "afternoon":230,
+            "night":270,
+            "Late Night":200,
+            "Full Day":300
+         }
+      },
+      {
+         "class":"Child",
+         "age_requirement":12,
+         "price":{
+            "morning":200,
+            "afternoon":200,
+            "night":200,
+            "Late Night":200,
+            "Full Day":180
+         }
+      },
+      {
+         "class":"Juvenile",
+         "age_requirement":6,
+         "price":{
+            "morning":150,
+            "afternoon":150,
+            "night":150,
+            "Late Night":150,
+            "Full Day":150
+         }
+      }
+   ]
+}
