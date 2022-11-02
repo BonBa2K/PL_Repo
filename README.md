@@ -15,6 +15,7 @@
 ## 二、作業連結區
 - [HW_1](https://github.com/BonBa2K/PL_Repo/blob/main/Class_3/BonBa_HW_1.ipynb)
 - [HW_2](https://github.com/BonBa2K/PL_Repo/blob/main/class_4/BonBa_HW_2.ipynb)
+- [HW_3](https://github.com/BonBa2K/PL_Repo/blob/main/class_7/BonBa_HW_3.py)#[使用說明](https://github.com/BonBa2K/PL_Repo/blob/main/class_7/HW3_README.md)
 ## 三、專題連結區
 
 ## 四、參考資料區(reference from 王依仁's read me)
