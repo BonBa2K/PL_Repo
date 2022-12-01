@@ -18,6 +18,7 @@
 - [HW_2](https://github.com/BonBa2K/PL_Repo/blob/main/class_4/BonBa_HW_2.ipynb)
 - [HW_3](https://github.com/BonBa2K/PL_Repo/blob/main/class_7/BonBa_HW_3.py)#[使用說明](https://github.com/BonBa2K/PL_Repo/blob/main/class_7/HW3_README.md)
 - [HW_4](https://medium.com/@dplovejess/youtube-你知道推薦影片會一路導向哪裡嗎-10da105b8f47)
+- [HW_5](https://medium.com/@dplovejess/youtube-%E4%BD%A0%E7%9F%A5%E9%81%93%E6%8E%A8%E8%96%A6%E5%BD%B1%E7%89%87%E6%9C%83%E4%B8%80%E8%B7%AF%E5%B0%8E%E5%90%91%E5%93%AA%E8%A3%A1%E5%97%8E-10da105b8f47)
 
 ## 三、專題連結區
 
